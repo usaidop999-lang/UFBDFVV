@@ -1,0 +1,16 @@
+{
+  "key.category.friendshield.main": "Friend Shield",
+  "key.friendshield.protect": "Protect / unprotect player you look at",
+  "key.friendshield.toggle": "Turn compass on/off",
+  "key.friendshield.range": "Change compass range",
+  "friendshield.on": "Friend Shield: ON",
+  "friendshield.off": "Friend Shield: OFF",
+  "friendshield.range": "Compass range: %s blocks",
+  "friendshield.look": "Look at a player first",
+  "friendshield.added": "%s is now protected",
+  "friendshield.removed": "%s is no longer protected",
+  "friendshield.blocked": "Friend Shield: attack on %s blocked",
+  "friendshield.none": "No players within %s blocks",
+  "friendshield.more": "+%s more",
+  "friendshield.friends": "Friends: %s"
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "friendshield",
+  "version": "${version}",
+  "name": "Friend Shield 26.2",
+  "description": "Protected-player list, friendly-fire blocker and a nearest-player compass. Client-side.",
+  "environment": "client",
+  "entrypoints": { "client": [ "com.friendshield.FriendShield" ] },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

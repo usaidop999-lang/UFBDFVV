@@ -1,0 +1,16 @@
+{
+  "key.category.friendshield.main": "Friend Shield",
+  "key.friendshield.protect": "सामने वाले खिलाड़ी को सुरक्षित सूची में जोड़ें/हटाएँ",
+  "key.friendshield.toggle": "कम्पास चालू/बंद करें",
+  "key.friendshield.range": "कम्पास की रेंज बदलें",
+  "friendshield.on": "Friend Shield: चालू",
+  "friendshield.off": "Friend Shield: बंद",
+  "friendshield.range": "कम्पास रेंज: %s ब्लॉक",
+  "friendshield.look": "पहले किसी खिलाड़ी की तरफ देखो",
+  "friendshield.added": "%s अब सुरक्षित है",
+  "friendshield.removed": "%s अब सुरक्षित नहीं है",
+  "friendshield.blocked": "Friend Shield: %s पर हमला रोका गया",
+  "friendshield.none": "%s ब्लॉक में कोई खिलाड़ी नहीं",
+  "friendshield.more": "+%s और",
+  "friendshield.friends": "दोस्त: %s"
+}
